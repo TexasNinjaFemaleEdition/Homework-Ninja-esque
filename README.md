@@ -26,14 +26,20 @@ Signing into the Ninja Dashboard gives you the ability to see and track your own
 
 
 #FutureNinjas
-The basic ninja needs upgrades in at least the following areas: 
+Ninja Upgrades: 
 -haven't commented code appropriately yet
 -better UI all around
+--update js
+--remove/replace unused css
+--gzip
+--browser cache expiration
 -Repository link should be available before you click on activity for details
 -Need to be able to collapse personal events
 -Need to be able to click on pic to go directly to the persons profile
 -needs search and filter functions
 -Pull down Refresh
+-Move to Node and EB
+
 
 
 
