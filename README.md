@@ -14,3 +14,29 @@ Signing into the Ninja Dashboard gives you the ability to see and track your own
 
 
 
+
+#NinjaBasics
+-HTML, JS, and CSS were the quickest and lightest way for me to impliment theme and functionality.
+-Runs on all devices
+-Supports Landscape viewing
+-Supports touch technology
+-Refeshing public activity via button
+-Shows User Pic and Event Details
+-Details includes link to repository
+
+
+#FutureNinjas
+The basic ninja needs upgrades in at least the following areas: 
+-haven't commented code appropriately yet
+-better UI all around
+-Repository link should be available before you click on activity for details
+-Need to be able to collapse personal events
+-Need to be able to click on pic to go directly to the persons profile
+-needs search and filter functions
+-Pull down Refresh
+
+
+
+#NinjaNotesandQuestions
+
+This is in no way up to par for me. I apologize for not allocating enough time to complete it. I still have several questions, which I hope we can talk through together when we discuss this further. 
