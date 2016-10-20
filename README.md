@@ -15,34 +15,37 @@ Signing into the Ninja Dashboard gives you the ability to see and track your own
 
 
 
-#NinjaBasics
--HTML, JS, and CSS were the quickest and lightest way for me to impliment theme and functionality.
--Runs on all devices
--Supports Landscape viewing
--Supports touch technology
--Refeshing public activity via button
--Shows User Pic and Event Details
--Details includes link to repository
+#NinjaBasics 
+-[x] HTML, JS, and CSS were the quickest and lightest way for me to impliment theme and functionality.
+-[x] Runs on all devices
+-[x] Supports Landscape viewing
+-[x] Supports touch technology
+-[x] Refeshing public activity via button
+-[x] Shows User Pic and Event Details
+-[x] Details includes link to repository
 
 
 #FutureNinjas
-Ninja Upgrades: 
--haven't commented code appropriately yet
--better UI all around
---update js
---remove/replace unused css
---gzip
---browser cache expiration
--Repository link should be available before you click on activity for details
--Need to be able to collapse personal events
--Need to be able to click on pic to go directly to the persons profile
--needs search and filter functions
--Pull down Refresh
--Move to Node and EB
+###### H6 Ninja Urade Suggestions: 
+>-[] comment code for more clarity
+>-[] better UI all around
+>-[] update js
+>-[] remove/replace unused css
+>-[] gzip
+>-[] browser cache expiration
+-[] Repository link should be available before you click on activity for details
+-[] Need to be able to collapse personal events
+-[] Need to be able to click on pic to go directly to the persons profile
+-[] needs search and filter functions
+-[] Pull down Refresh
+-[] Move to Node and EB
 
 
 
 
-#NinjaNotesandQuestions
+#NinjaNotes
 
-This is in no way up to par for me. I apologize for not allocating enough time to complete it. I still have several questions, which I hope we can talk through together when we discuss this further. 
+###### H6 Ammended: 
+
+As I am still getting reacquanted with git, I will continue working on this project regardless of any employment decisions. I have been looking at this more as practice than homework. I do have several questions I would like you help with if you don't mind. I believe I may be missing a step in the commit/pull process, but I am not exactly sure where. It is a little different than pulling from a forked repository. 
+I have also created a trello board of user cases for this project as well. Overkill for such a small assignment, I'm sure, but helpful to me all the same. 
